@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\stack_queue\bin\Debug\stack_queue.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\stack_queue\bin\Debug\stack_queue.exe
+C:\Users\sljha\source\repos\ConsoleApp1\stack_queue\bin\Debug\stack_queue.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\stack_queue\obj\Debug\stack_queue.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\stack_queue\obj\Debug\stack_queue.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\stack_queue\obj\Debug\stack_queue.exe
+C:\Users\sljha\source\repos\ConsoleApp1\stack_queue\obj\Debug\stack_queue.pdb

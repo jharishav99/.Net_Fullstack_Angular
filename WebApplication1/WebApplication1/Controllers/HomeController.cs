@@ -1,0 +1,43 @@
+using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
+using WebApplication1.DAL;
+
+namespace WebApplication1.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly CRUD _crud;
+
+        public HomeController(CRUD crud)
+        {
+            _crud = crud;
+        }
+
+        public IActionResult Index()
+        {
+            ViewBag.Message = "Welcome to the Home Page!";
+            ViewData["Display"] = "Home View Data";
+            TempData["Show"] = "Home Temp Data";
+
+            var patients = _crud.GetPatients() ?? new List<Patient>();
+            return View(patients);
+        }
+
+        public IActionResult Privacy()
+        {
+
+            ViewBag.Message = "Welcome to Web development!";
+            ViewData["Display"] = "This is View Data";
+            TempData["Show"] = "This is Temp Data";
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            ViewBag.Message = "Welcome to Web development";
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+    }
+}

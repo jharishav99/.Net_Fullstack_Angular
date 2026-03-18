@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\array_exercise\bin\Debug\array_exercise.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\array_exercise\bin\Debug\array_exercise.exe
+C:\Users\sljha\source\repos\ConsoleApp1\array_exercise\bin\Debug\array_exercise.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\array_exercise\obj\Debug\array_exercise.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\array_exercise\obj\Debug\array_exercise.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\array_exercise\obj\Debug\array_exercise.exe
+C:\Users\sljha\source\repos\ConsoleApp1\array_exercise\obj\Debug\array_exercise.pdb

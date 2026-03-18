@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Hobbies SPA</title>
+    <style>
+      /* CSS STYLES */
+      body {
+        font-family: "Arial", sans-serif;
+        padding: 20px;
+        background-color: #f9f9f9;
+      }
+
+      h1 {
+        color: #333;
+      }
+
+      nav {
+        display: flex;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 20px;
+      }
+
+      .tab-btn {
+        border: none;
+        background: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        color: #4285f4;
+        font-size: 16px;
+        transition: 0.3s;
+      }
+
+      /* Hover effect to fix your requirement */
+      .tab-btn:hover {
+        background-color: #e8f0fe;
+        border-radius: 5px 5px 0 0;
+      }
+
+      .tab-btn.active {
+        color: #000;
+        border: 1px solid #ddd;
+        border-bottom: 2px solid white;
+        margin-bottom: -1px;
+        font-weight: bold;
+        background-color: white;
+      }
+
+      .page {
+        background: white;
+        padding: 20px;
+        border-radius: 0 0 8px 8px;
+        max-width: 500px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+      }
+
+      .hobby-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 12px;
+        border-bottom: 1px solid #eee;
+      }
+
+      .btns button {
+        margin-left: 8px;
+        padding: 5px 10px;
+        cursor: pointer;
+        border-radius: 4px;
+        border: 1px solid #ddd;
+      }
+
+      .fav-btn {
+        color: #fbbc05;
+        font-size: 18px;
+      }
+      .del-btn {
+        color: #d93025;
+      }
+
+      .input-container {
+        display: flex;
+        gap: 10px;
+      }
+
+      input {
+        flex: 1;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+      }
+
+      .save-btn {
+        background-color: #4285f4;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My Hobbies</h1>
+
+    <nav id="main-nav">
+      <button class="tab-btn active" onclick="showPage('home', this)">
+        Home
+      </button>
+      <button class="tab-btn" onclick="showPage('add', this)">Add New</button>
+      <button class="tab-btn" onclick="showPage('favs', this)">
+        My Favourites
+      </button>
+    </nav>
+
+    <hr
+      style="
+        border: 0;
+        border-top: 1px solid #eee;
+        margin-top: -21px;
+        margin-bottom: 20px;
+      "
+    />
+
+    <section id="home" class="page">
+      <h3>Hobbies</h3>
+      <ul id="hobbyList" style="list-style: none; padding: 0"></ul>
+    </section>
+
+    <section id="add" class="page" style="display: none">
+      <h3>Add a New Hobby</h3>
+      <div class="input-container">
+        <input type="text" id="hobbyInput" placeholder="Enter hobby name..." />
+        <button class="save-btn" onclick="addHobby()">Save Hobby</button>
+      </div>
+    </section>
+
+    <section id="favs" class="page" style="display: none">
+      <h3>My Favourite Hobbies</h3>
+      <ul id="favList" style="list-style: none; padding: 0"></ul>
+    </section>
+
+    <script>
+      // JAVASCRIPT LOGIC
+
+      // 1. Array of Objects (The State)
+      let hobbies = [
+        { name: "Standup Comedy", isFav: false },
+        { name: "Swimming", isFav: false },
+        { name: "Cycling", isFav: false },
+      ];
+
+      // 2. Navigation Logic
+      function showPage(pageId, element) {
+        // Hide all pages
+        document
+          .querySelectorAll(".page")
+          .forEach((p) => (p.style.display = "none"));
+        // Show selected page
+        document.getElementById(pageId).style.display = "block";
+
+        // Reset tab styles
+        document
+          .querySelectorAll(".tab-btn")
+          .forEach((btn) => btn.classList.remove("active"));
+        // Highlight active tab
+        element.classList.add("active");
+
+        renderHobbies();
+      }
+
+      // 3. View Logic: Renders lists dynamically
+      function renderHobbies() {
+        const hobbyList = document.getElementById("hobbyList");
+        const favList = document.getElementById("favList");
+
+        hobbyList.innerHTML = "";
+        favList.innerHTML = "";
+
+        hobbies.forEach((hobby, index) => {
+          // Main List item
+          const li = document.createElement("li");
+          li.className = "hobby-item";
+          li.innerHTML = `
+                    <span>${hobby.name}</span>
+                    <div class="btns">
+                        <button class="fav-btn" onclick="toggleFav(${index})">${hobby.isFav ? "★" : "☆"}</button>
+                        <button class="del-btn" onclick="deleteHobby(${index})">Delete</button>
+                    </div>
+                `;
+          hobbyList.appendChild(li);
+
+          // Favourite List item
+          if (hobby.isFav) {
+            const fLi = document.createElement("li");
+            fLi.className = "hobby-item";
+            fLi.innerHTML = `<span>${hobby.name}</span>`;
+            favList.appendChild(fLi);
+          }
+        });
+      }
+
+      // 4. Create Logic: Array.push()
+      function addHobby() {
+        const input = document.getElementById("hobbyInput");
+        const name = input.value.trim();
+
+        if (name) {
+          hobbies.push({ name: name, isFav: false });
+          input.value = "";
+          // Go back to Home tab after saving
+          showPage("home", document.querySelector(".tab-btn"));
+        }
+      }
+
+      // 5. Update Logic: Toggle status
+      function toggleFav(index) {
+        hobbies[index].isFav = !hobbies[index].isFav;
+        renderHobbies();
+      }
+
+      // 6. Delete Logic: Array.splice()
+      function deleteHobby(index) {
+        hobbies.splice(index, 1);
+        renderHobbies();
+      }
+
+      // Initial render when file opens
+      window.onload = renderHobbies;
+    </script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVHWTPi+3ew=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sljha\\source\\repos\\apidemo\\apidemo\\apidemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sljha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\sljha\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

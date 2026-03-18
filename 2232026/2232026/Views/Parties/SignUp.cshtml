@@ -1,0 +1,57 @@
+﻿@using _2232026.Models
+@{
+    ViewData["Title"] = "Party Sign Up";
+    var parties = ViewBag.Parties as List<Party>;
+}
+
+<h2>Party Sign Up</h2>
+
+<select id="partyDropdown" class="form-control">
+    <option value="">-- Select Party --</option>
+    @foreach (var party in parties)
+    {
+        <option value="@party.Id">@party.Name</option>
+    }
+</select>
+
+<br />
+
+<div id="signupSection" style="display:none;">
+    <p>Proceed to sign up</p>
+    <button class="btn btn-primary">Sign Up</button>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+
+            $("#partyDropdown").change(function () {
+
+                var partyId = $(this).val();
+
+                if (partyId == "") {
+                    $("#signupSection").hide();
+                    return;
+                }
+
+                $.ajax({
+                    url: '/Parties/CheckPartyType',
+                    type: 'GET',
+                    data: { id: partyId },
+                    success: function (response) {
+
+                        if (response === "Internal") {
+                            $("#signupSection").show();
+                        }
+                        else {
+                            $("#signupSection").hide();
+                            alert("External party - Sign up not allowed");
+                        }
+                    }
+                });
+
+            });
+
+        });
+    </script>
+}

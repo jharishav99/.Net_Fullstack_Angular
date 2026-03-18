@@ -1,0 +1,2 @@
+C:\Users\sljha\source\repos\practice_01\encap\obj\Debug\encap.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\encap\obj\Debug\encap.csproj.CoreCompileInputs.cache

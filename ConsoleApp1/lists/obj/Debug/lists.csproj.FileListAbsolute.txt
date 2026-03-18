@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\lists\bin\Debug\lists.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\lists\bin\Debug\lists.exe
+C:\Users\sljha\source\repos\ConsoleApp1\lists\bin\Debug\lists.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\lists\obj\Debug\lists.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\lists\obj\Debug\lists.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\lists\obj\Debug\lists.exe
+C:\Users\sljha\source\repos\ConsoleApp1\lists\obj\Debug\lists.pdb

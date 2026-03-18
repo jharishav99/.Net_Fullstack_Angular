@@ -1,0 +1,2 @@
+C:\Users\sljha\source\repos\practice_01\2122026\obj\Debug\2122026.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\2122026\obj\Debug\2122026.csproj.CoreCompileInputs.cache

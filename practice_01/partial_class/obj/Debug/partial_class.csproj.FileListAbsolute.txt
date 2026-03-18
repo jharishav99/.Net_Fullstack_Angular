@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\partial_class\obj\Debug\partial_class.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\partial_class\obj\Debug\partial_class.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\partial_class\bin\Debug\partial_class.exe.config
+C:\Users\sljha\source\repos\practice_01\partial_class\bin\Debug\partial_class.exe
+C:\Users\sljha\source\repos\practice_01\partial_class\bin\Debug\partial_class.pdb
+C:\Users\sljha\source\repos\practice_01\partial_class\obj\Debug\partial_class.exe
+C:\Users\sljha\source\repos\practice_01\partial_class\obj\Debug\partial_class.pdb

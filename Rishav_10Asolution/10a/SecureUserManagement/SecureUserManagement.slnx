@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SecureUserManagement.Tests/SecureUserManagement.Tests.csproj" Id="e4de1c5b-3876-4ffc-9466-8bef4cc9de13" />
+  <Project Path="SecureUserManagement.csproj" Id="ff416760-3693-475f-a3c0-920c79a90b10" />
+</Solution>

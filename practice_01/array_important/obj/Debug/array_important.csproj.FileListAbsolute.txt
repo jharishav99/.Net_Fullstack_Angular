@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\array_important\obj\Debug\array_important.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\array_important\obj\Debug\array_important.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\array_important\bin\Debug\array_important.exe.config
+C:\Users\sljha\source\repos\practice_01\array_important\bin\Debug\array_important.exe
+C:\Users\sljha\source\repos\practice_01\array_important\bin\Debug\array_important.pdb
+C:\Users\sljha\source\repos\practice_01\array_important\obj\Debug\array_important.exe
+C:\Users\sljha\source\repos\practice_01\array_important\obj\Debug\array_important.pdb

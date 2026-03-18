@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\sljha\source\repos\ConsoleApp1\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\StringManipulation\obj\Debug\StringManipulation.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\sljha\source\repos\ConsoleApp1\StringManipulation\obj\Debug\StringManipulation.pdb

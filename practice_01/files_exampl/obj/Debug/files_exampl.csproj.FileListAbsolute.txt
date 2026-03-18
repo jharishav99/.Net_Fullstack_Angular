@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\files_exampl\bin\Debug\files_exampl.exe.config
+C:\Users\sljha\source\repos\practice_01\files_exampl\bin\Debug\files_exampl.exe
+C:\Users\sljha\source\repos\practice_01\files_exampl\bin\Debug\files_exampl.pdb
+C:\Users\sljha\source\repos\practice_01\files_exampl\obj\Debug\files_exampl.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\files_exampl\obj\Debug\files_exampl.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\files_exampl\obj\Debug\files_exampl.exe
+C:\Users\sljha\source\repos\practice_01\files_exampl\obj\Debug\files_exampl.pdb

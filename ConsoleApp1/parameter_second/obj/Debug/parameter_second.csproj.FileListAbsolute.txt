@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\parameter_second\bin\Debug\parameter_second.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\parameter_second\bin\Debug\parameter_second.exe
+C:\Users\sljha\source\repos\ConsoleApp1\parameter_second\bin\Debug\parameter_second.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\parameter_second\obj\Debug\parameter_second.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\parameter_second\obj\Debug\parameter_second.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\parameter_second\obj\Debug\parameter_second.exe
+C:\Users\sljha\source\repos\ConsoleApp1\parameter_second\obj\Debug\parameter_second.pdb

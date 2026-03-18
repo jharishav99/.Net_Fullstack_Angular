@@ -1,0 +1,33 @@
+﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
+
+namespace WebApplication1.Controllers
+{
+    public class HomeController : Controller
+    {
+        public IActionResult Index()
+        {
+            ViewBag.Message = "Welcome to the Home Page!";
+            ViewData["Display"] = "Home View Data";
+            TempData["Show"] = "Home Temp Data";
+            return View();
+        }
+
+        public IActionResult Privacy()
+        {
+
+            ViewBag.Message = "Welcome to Web development!";
+            ViewData["Display"] = "This is View Data";
+            TempData["Show"] = "This is Temp Data";
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            ViewBag.Message = "Welcome to Web development";
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+    }
+}

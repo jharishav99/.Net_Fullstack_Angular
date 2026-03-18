@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\event_sub\bin\Debug\event_sub.exe.config
+C:\Users\sljha\source\repos\practice_01\event_sub\bin\Debug\event_sub.exe
+C:\Users\sljha\source\repos\practice_01\event_sub\bin\Debug\event_sub.pdb
+C:\Users\sljha\source\repos\practice_01\event_sub\obj\Debug\event_sub.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\event_sub\obj\Debug\event_sub.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\event_sub\obj\Debug\event_sub.exe
+C:\Users\sljha\source\repos\practice_01\event_sub\obj\Debug\event_sub.pdb

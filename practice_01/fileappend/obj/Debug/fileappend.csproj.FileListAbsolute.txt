@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\fileappend\obj\Debug\fileappend.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\fileappend\obj\Debug\fileappend.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\fileappend\bin\Debug\fileappend.exe.config
+C:\Users\sljha\source\repos\practice_01\fileappend\bin\Debug\fileappend.exe
+C:\Users\sljha\source\repos\practice_01\fileappend\bin\Debug\fileappend.pdb
+C:\Users\sljha\source\repos\practice_01\fileappend\obj\Debug\fileappend.exe
+C:\Users\sljha\source\repos\practice_01\fileappend\obj\Debug\fileappend.pdb

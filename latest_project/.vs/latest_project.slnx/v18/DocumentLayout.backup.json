@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sljha\\source\\repos\\latest_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|c:\\users\\sljha\\source\\repos\\latest_project\\latest_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|solutionrelative:latest_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|c:\\users\\sljha\\source\\repos\\latest_project\\latest_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|solutionrelative:latest_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|c:\\users\\sljha\\source\\repos\\latest_project\\latest_project\\latest_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|solutionrelative:latest_project\\latest_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|c:\\users\\sljha\\source\\repos\\latest_project\\latest_project\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B005A7-CAF8-4457-BB6B-E2751F388EF0}|latest_project\\latest_project.csproj|solutionrelative:latest_project\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\Program.cs",
+              "RelativeDocumentMoniker": "latest_project\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\Program.cs",
+              "RelativeToolTip": "latest_project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:22:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "latest_project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "latest_project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:19:46.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "latest_project",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\latest_project.csproj",
+              "RelativeDocumentMoniker": "latest_project\\latest_project.csproj",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\latest_project.csproj",
+              "RelativeToolTip": "latest_project\\latest_project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T02:15:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "latest_project\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\latest_project\\latest_project\\Models\\Student.cs",
+              "RelativeToolTip": "latest_project\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:10:41.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\string_practice_qn\obj\Debug\string_practice_qn.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\string_practice_qn\obj\Debug\string_practice_qn.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\string_practice_qn\bin\Debug\string_practice_qn.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\string_practice_qn\bin\Debug\string_practice_qn.exe
+C:\Users\sljha\source\repos\ConsoleApp1\string_practice_qn\bin\Debug\string_practice_qn.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\string_practice_qn\obj\Debug\string_practice_qn.exe
+C:\Users\sljha\source\repos\ConsoleApp1\string_practice_qn\obj\Debug\string_practice_qn.pdb

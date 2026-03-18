@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\C1\bin\Debug\C1.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\C1\bin\Debug\C1.exe
+C:\Users\sljha\source\repos\ConsoleApp1\C1\bin\Debug\C1.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\C1\obj\Debug\C1.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\C1\obj\Debug\C1.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\C1\obj\Debug\C1.exe
+C:\Users\sljha\source\repos\ConsoleApp1\C1\obj\Debug\C1.pdb

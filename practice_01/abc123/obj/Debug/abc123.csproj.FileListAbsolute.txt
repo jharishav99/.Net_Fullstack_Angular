@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\abc123\bin\Debug\abc123.exe.config
+C:\Users\sljha\source\repos\practice_01\abc123\bin\Debug\abc123.exe
+C:\Users\sljha\source\repos\practice_01\abc123\bin\Debug\abc123.pdb
+C:\Users\sljha\source\repos\practice_01\abc123\obj\Debug\abc123.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\abc123\obj\Debug\abc123.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\abc123\obj\Debug\abc123.exe
+C:\Users\sljha\source\repos\practice_01\abc123\obj\Debug\abc123.pdb

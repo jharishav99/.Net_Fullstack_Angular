@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sljha\\source\\repos\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890A13E9-4318-4464-8DFF-8F4675B6EB2D}|MyApp\\MyApp.csproj|c:\\users\\sljha\\source\\repos\\myapp\\myapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A13E9-4318-4464-8DFF-8F4675B6EB2D}|MyApp\\MyApp.csproj|solutionrelative:myapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B304CB2-6571-4892-A376-D653A91EAE1B}|MyApp.Tests\\MyApp.Tests.csproj|c:\\users\\sljha\\source\\repos\\myapp\\myapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B304CB2-6571-4892-A376-D653A91EAE1B}|MyApp.Tests\\MyApp.Tests.csproj|solutionrelative:myapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B304CB2-6571-4892-A376-D653A91EAE1B}|MyApp.Tests\\MyApp.Tests.csproj|c:\\users\\sljha\\source\\repos\\myapp\\myapp.tests\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B304CB2-6571-4892-A376-D653A91EAE1B}|MyApp.Tests\\MyApp.Tests.csproj|solutionrelative:myapp.tests\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A13E9-4318-4464-8DFF-8F4675B6EB2D}|MyApp\\MyApp.csproj|c:\\users\\sljha\\source\\repos\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{890A13E9-4318-4464-8DFF-8F4675B6EB2D}|MyApp\\MyApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A13E9-4318-4464-8DFF-8F4675B6EB2D}|MyApp\\MyApp.csproj|c:\\users\\sljha\\source\\repos\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A13E9-4318-4464-8DFF-8F4675B6EB2D}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp.Tests\\Calculator.cs",
+              "RelativeDocumentMoniker": "MyApp.Tests\\Calculator.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp.Tests\\Calculator.cs",
+              "RelativeToolTip": "MyApp.Tests\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:28:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp\\appsettings.json",
+              "RelativeToolTip": "MyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T06:26:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:26:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "MyApp\\Calculator.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp\\Calculator.cs",
+              "RelativeToolTip": "MyApp\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:20:33.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "MyApp.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\MyApp\\MyApp.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "MyApp.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:16:52.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\Generic_class\bin\Debug\Generic_class.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\Generic_class\bin\Debug\Generic_class.exe
+C:\Users\sljha\source\repos\ConsoleApp1\Generic_class\bin\Debug\Generic_class.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\Generic_class\obj\Debug\Generic_class.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\Generic_class\obj\Debug\Generic_class.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\Generic_class\obj\Debug\Generic_class.exe
+C:\Users\sljha\source\repos\ConsoleApp1\Generic_class\obj\Debug\Generic_class.pdb

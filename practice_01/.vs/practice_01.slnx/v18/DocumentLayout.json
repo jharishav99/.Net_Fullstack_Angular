@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sljha\\source\\repos\\practice_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11EBD1D-4B81-4DAC-A8DE-F53EA348CAFF}|array_important\\array_important.csproj|c:\\users\\sljha\\source\\repos\\practice_01\\array_important\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11EBD1D-4B81-4DAC-A8DE-F53EA348CAFF}|array_important\\array_important.csproj|solutionrelative:array_important\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sljha\\source\\repos\\practice_01\\practice_04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practice_04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11EBD1D-4B81-4DAC-A8DE-F53EA348CAFF}|array_important\\array_important.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\array_important\\array_important.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E11EBD1D-4B81-4DAC-A8DE-F53EA348CAFF}|array_important\\array_important.csproj|solutionrelative:array_important\\array_important.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247CC00B-8319-434A-8DFA-30036018D46A}|event_sub\\event_sub.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247CC00B-8319-434A-8DFA-30036018D46A}|event_sub\\event_sub.csproj|solutionrelative:event_sub\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BD4EB-62C8-4EEF-BF80-2E8DF35486E9}|ex\\ex.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BD4EB-62C8-4EEF-BF80-2E8DF35486E9}|ex\\ex.csproj|solutionrelative:ex\\Subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BD4EB-62C8-4EEF-BF80-2E8DF35486E9}|ex\\ex.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BD4EB-62C8-4EEF-BF80-2E8DF35486E9}|ex\\ex.csproj|solutionrelative:ex\\Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BD4EB-62C8-4EEF-BF80-2E8DF35486E9}|ex\\ex.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BD4EB-62C8-4EEF-BF80-2E8DF35486E9}|ex\\ex.csproj|solutionrelative:ex\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70FE168-3030-419B-A0BA-B89DE7F152DE}|2122026\\2122026.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\2122026\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70FE168-3030-419B-A0BA-B89DE7F152DE}|2122026\\2122026.csproj|solutionrelative:2122026\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42701FD-E590-43D8-8C1E-DB6202E90FD7}|partial_class\\partial_class.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\geeks2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42701FD-E590-43D8-8C1E-DB6202E90FD7}|partial_class\\partial_class.csproj|solutionrelative:partial_class\\geeks2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42701FD-E590-43D8-8C1E-DB6202E90FD7}|partial_class\\partial_class.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\geeks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42701FD-E590-43D8-8C1E-DB6202E90FD7}|partial_class\\partial_class.csproj|solutionrelative:partial_class\\geeks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42701FD-E590-43D8-8C1E-DB6202E90FD7}|partial_class\\partial_class.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42701FD-E590-43D8-8C1E-DB6202E90FD7}|partial_class\\partial_class.csproj|solutionrelative:partial_class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E5ED7-E025-48F3-873A-3B7C416DF8F1}|buuble__sort\\sort.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\Sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E5ED7-E025-48F3-873A-3B7C416DF8F1}|buuble__sort\\sort.csproj|solutionrelative:buuble__sort\\Sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247CC00B-8319-434A-8DFA-30036018D46A}|event_sub\\event_sub.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\EventPublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247CC00B-8319-434A-8DFA-30036018D46A}|event_sub\\event_sub.csproj|solutionrelative:event_sub\\EventPublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8826B93-8E9A-4938-B11D-E9147FC2E652}|string_important\\string_important.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\string_important\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8826B93-8E9A-4938-B11D-E9147FC2E652}|string_important\\string_important.csproj|solutionrelative:string_important\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247CC00B-8319-434A-8DFA-30036018D46A}|event_sub\\event_sub.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\EventSubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247CC00B-8319-434A-8DFA-30036018D46A}|event_sub\\event_sub.csproj|solutionrelative:event_sub\\EventSubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E5ED7-E025-48F3-873A-3B7C416DF8F1}|buuble__sort\\sort.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\BubbleSortExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E5ED7-E025-48F3-873A-3B7C416DF8F1}|buuble__sort\\sort.csproj|solutionrelative:buuble__sort\\BubbleSortExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E5ED7-E025-48F3-873A-3B7C416DF8F1}|buuble__sort\\sort.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E5ED7-E025-48F3-873A-3B7C416DF8F1}|buuble__sort\\sort.csproj|solutionrelative:buuble__sort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A804178A-D09D-413D-AD69-00902561A1CF}|my_exception_class\\my_exception_class.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\my_exception_class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A804178A-D09D-413D-AD69-00902561A1CF}|my_exception_class\\my_exception_class.csproj|solutionrelative:my_exception_class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\ProductCRUD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|solutionrelative:abc123\\ProductCRUD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|solutionrelative:abc123\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|solutionrelative:abc123\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\CategoryCRUD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|solutionrelative:abc123\\CategoryCRUD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C99BB72-5AC0-4D1C-9938-334090A8E4CC}|abc123\\abc123.csproj|solutionrelative:abc123\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C42205-80E7-4BE7-B9A1-664CAC95FAD7}|create_direct\\create_direct.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\create_direct\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C42205-80E7-4BE7-B9A1-664CAC95FAD7}|create_direct\\create_direct.csproj|solutionrelative:create_direct\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD10A7D-343F-4B9A-B2B3-CDF10C159294}|fileappend\\fileappend.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\fileappend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD10A7D-343F-4B9A-B2B3-CDF10C159294}|fileappend\\fileappend.csproj|solutionrelative:fileappend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F05E6-2F46-47F9-8B0B-1BCB781F5D84}|files_exampl\\files_exampl.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\files_exampl\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F05E6-2F46-47F9-8B0B-1BCB781F5D84}|files_exampl\\files_exampl.csproj|solutionrelative:files_exampl\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979B5ECE-BF0B-436F-8DDD-43A000329B03}|encap\\encap.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\encap\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979B5ECE-BF0B-436F-8DDD-43A000329B03}|encap\\encap.csproj|solutionrelative:encap\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979B5ECE-BF0B-436F-8DDD-43A000329B03}|encap\\encap.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\encap\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979B5ECE-BF0B-436F-8DDD-43A000329B03}|encap\\encap.csproj|solutionrelative:encap\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9AFA37-C58A-4492-BA02-6CD2FD85046E}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\ConsoleApp1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9AFA37-C58A-4492-BA02-6CD2FD85046E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9AFA37-C58A-4492-BA02-6CD2FD85046E}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9AFA37-C58A-4492-BA02-6CD2FD85046E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799CF440-6ABC-4799-A2DA-2BB620E25137}|practice_03\\practice_03.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\practice_03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799CF440-6ABC-4799-A2DA-2BB620E25137}|practice_03\\practice_03.csproj|solutionrelative:practice_03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9ADC6F-D277-44C3-B5C9-9E6C6B186993}|practice_02\\practice_02.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\practice_02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9ADC6F-D277-44C3-B5C9-9E6C6B186993}|practice_02\\practice_02.csproj|solutionrelative:practice_02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86241152-165B-4A25-AF00-6294FD65996B}|practice_01\\practice_01.csproj|C:\\Users\\sljha\\source\\repos\\practice_01\\practice_01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86241152-165B-4A25-AF00-6294FD65996B}|practice_01\\practice_01.csproj|solutionrelative:practice_01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array_important.csproj",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\array_important\\array_important.csproj",
+              "RelativeDocumentMoniker": "array_important\\array_important.csproj",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\array_important\\array_important.csproj",
+              "RelativeToolTip": "array_important\\array_important.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-15T17:47:58.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\Program.cs",
+              "RelativeDocumentMoniker": "event_sub\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\Program.cs",
+              "RelativeToolTip": "event_sub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:30:39.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Subscriber.cs",
+              "RelativeDocumentMoniker": "ex\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Subscriber.cs",
+              "RelativeToolTip": "ex\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:24:09.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Publisher.cs",
+              "RelativeDocumentMoniker": "ex\\Publisher.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Publisher.cs",
+              "RelativeToolTip": "ex\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:23:34.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Program.cs",
+              "RelativeDocumentMoniker": "ex\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\ex\\Program.cs",
+              "RelativeToolTip": "ex\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:21:30.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\2122026\\Program.cs",
+              "RelativeDocumentMoniker": "2122026\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\2122026\\Program.cs",
+              "RelativeToolTip": "2122026\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:12:06.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "geeks2.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\geeks2.cs",
+              "RelativeDocumentMoniker": "partial_class\\geeks2.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\geeks2.cs",
+              "RelativeToolTip": "partial_class\\geeks2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:52:28.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "geeks1.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\geeks1.cs",
+              "RelativeDocumentMoniker": "partial_class\\geeks1.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\geeks1.cs",
+              "RelativeToolTip": "partial_class\\geeks1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:52:08.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\Program.cs",
+              "RelativeDocumentMoniker": "partial_class\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\partial_class\\Program.cs",
+              "RelativeToolTip": "partial_class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:51:45.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sorting.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\Sorting.cs",
+              "RelativeDocumentMoniker": "buuble__sort\\Sorting.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\Sorting.cs",
+              "RelativeToolTip": "buuble__sort\\Sorting.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:45:35.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\array_important\\Program.cs",
+              "RelativeDocumentMoniker": "array_important\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\array_important\\Program.cs",
+              "RelativeToolTip": "array_important\\Program.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAALUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T18:32:19.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\EventPublisher.cs",
+              "RelativeDocumentMoniker": "event_sub\\EventPublisher.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\EventPublisher.cs",
+              "RelativeToolTip": "event_sub\\EventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:31:22.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\string_important\\Program.cs",
+              "RelativeDocumentMoniker": "string_important\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\string_important\\Program.cs",
+              "RelativeToolTip": "string_important\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T18:10:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\EventSubscriber.cs",
+              "RelativeDocumentMoniker": "event_sub\\EventSubscriber.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\event_sub\\EventSubscriber.cs",
+              "RelativeToolTip": "event_sub\\EventSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:32:03.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BubbleSortExample.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\BubbleSortExample.cs",
+              "RelativeDocumentMoniker": "buuble__sort\\BubbleSortExample.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\BubbleSortExample.cs",
+              "RelativeToolTip": "buuble__sort\\BubbleSortExample.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:32:45.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\Program.cs",
+              "RelativeDocumentMoniker": "buuble__sort\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\buuble__sort\\Program.cs",
+              "RelativeToolTip": "buuble__sort\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:30:52.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\my_exception_class\\Program.cs",
+              "RelativeDocumentMoniker": "my_exception_class\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\my_exception_class\\Program.cs",
+              "RelativeToolTip": "my_exception_class\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:44:53.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\ProductCRUD.cs",
+              "RelativeDocumentMoniker": "abc123\\ProductCRUD.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\ProductCRUD.cs",
+              "RelativeToolTip": "abc123\\ProductCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:47:18.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\Product.cs",
+              "RelativeDocumentMoniker": "abc123\\Product.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\Product.cs",
+              "RelativeToolTip": "abc123\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:41:45.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\App.config",
+              "RelativeDocumentMoniker": "abc123\\App.config",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\App.config",
+              "RelativeToolTip": "abc123\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-11T05:06:35.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\CategoryCRUD.cs",
+              "RelativeDocumentMoniker": "abc123\\CategoryCRUD.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\CategoryCRUD.cs",
+              "RelativeToolTip": "abc123\\CategoryCRUD.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:05:26.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\Program.cs",
+              "RelativeDocumentMoniker": "abc123\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\abc123\\Program.cs",
+              "RelativeToolTip": "abc123\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:04:25.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_04\\Program.cs",
+              "RelativeDocumentMoniker": "practice_04\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_04\\Program.cs",
+              "RelativeToolTip": "practice_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:03:22.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\create_direct\\Program.cs",
+              "RelativeDocumentMoniker": "create_direct\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\create_direct\\Program.cs",
+              "RelativeToolTip": "create_direct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:12:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\fileappend\\Program.cs",
+              "RelativeDocumentMoniker": "fileappend\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\fileappend\\Program.cs",
+              "RelativeToolTip": "fileappend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:07:14.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\files_exampl\\Program.cs",
+              "RelativeDocumentMoniker": "files_exampl\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\files_exampl\\Program.cs",
+              "RelativeToolTip": "files_exampl\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:58:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\encap\\Class1.cs",
+              "RelativeDocumentMoniker": "encap\\Class1.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\encap\\Class1.cs",
+              "RelativeToolTip": "encap\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:33:38.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\encap\\Program.cs",
+              "RelativeDocumentMoniker": "encap\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\encap\\Program.cs",
+              "RelativeToolTip": "encap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:33:25.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\ConsoleApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\ConsoleApp1\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:19:10.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:18:48.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_03\\Program.cs",
+              "RelativeDocumentMoniker": "practice_03\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_03\\Program.cs",
+              "RelativeToolTip": "practice_03\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:51:05.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_02\\Program.cs",
+              "RelativeDocumentMoniker": "practice_02\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_02\\Program.cs",
+              "RelativeToolTip": "practice_02\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:27:58.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_01\\Program.cs",
+              "RelativeDocumentMoniker": "practice_01\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\practice_01\\practice_01\\Program.cs",
+              "RelativeToolTip": "practice_01\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwEAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:57:58.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

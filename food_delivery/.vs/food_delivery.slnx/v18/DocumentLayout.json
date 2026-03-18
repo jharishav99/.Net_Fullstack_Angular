@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sljha\\source\\repos\\food_delivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:food_delivery\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\FoodItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:food_delivery\\Controllers\\FoodItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\RestaurantsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:food_delivery\\Controllers\\RestaurantsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\data\\fooddeliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\data\\fooddeliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Migrations\\20260217040458_InitialFoodSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:food_delivery\\Migrations\\20260217040458_InitialFoodSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|c:\\users\\sljha\\source\\repos\\food_delivery\\food_delivery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB70CD-4E1E-42F8-9097-709EB1BB1DFF}|food_delivery\\food_delivery.csproj|solutionrelative:food_delivery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "food_delivery\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "food_delivery\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T04:15:19.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "food_delivery\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:13:35.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\FoodItemsController.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Controllers\\FoodItemsController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\FoodItemsController.cs",
+              "RelativeToolTip": "food_delivery\\Controllers\\FoodItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:12:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "food_delivery\\Controllers\\RestaurantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:12:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "food_delivery\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:08:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260217040458_InitialFoodSetup.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Migrations\\20260217040458_InitialFoodSetup.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Migrations\\20260217040458_InitialFoodSetup.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Migrations\\20260217040458_InitialFoodSetup.cs",
+              "RelativeToolTip": "food_delivery\\Migrations\\20260217040458_InitialFoodSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:04:58.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Models\\Order.cs",
+              "RelativeToolTip": "food_delivery\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T03:57:28.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Models\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Models\\FoodItem.cs",
+              "RelativeToolTip": "food_delivery\\Models\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T03:57:17.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Models\\Restaurant.cs",
+              "RelativeToolTip": "food_delivery\\Models\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T03:56:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodDeliveryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Data\\FoodDeliveryDbContext.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Data\\FoodDeliveryDbContext.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Data\\FoodDeliveryDbContext.cs",
+              "RelativeToolTip": "food_delivery\\Data\\FoodDeliveryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T03:54:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "food_delivery\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T03:52:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Program.cs",
+              "RelativeDocumentMoniker": "food_delivery\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\Program.cs",
+              "RelativeToolTip": "food_delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T03:47:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\appsettings.json",
+              "RelativeDocumentMoniker": "food_delivery\\appsettings.json",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\food_delivery\\food_delivery\\appsettings.json",
+              "RelativeToolTip": "food_delivery\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T03:46:09.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

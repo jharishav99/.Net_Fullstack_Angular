@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\create_direct\obj\Debug\create_direct.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\create_direct\obj\Debug\create_direct.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\create_direct\bin\Debug\create_direct.exe.config
+C:\Users\sljha\source\repos\practice_01\create_direct\bin\Debug\create_direct.exe
+C:\Users\sljha\source\repos\practice_01\create_direct\bin\Debug\create_direct.pdb
+C:\Users\sljha\source\repos\practice_01\create_direct\obj\Debug\create_direct.exe
+C:\Users\sljha\source\repos\practice_01\create_direct\obj\Debug\create_direct.pdb

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<FoodDeliveryApp.Models.Food>
+
+@{
+    ViewData["Title"] = "Menu";
+}
+
+<h1 class="display-4 text-center mb-4"> Menu</h1>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text text-muted">@item.Description</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <span class="h5 text-success mb-0">$@item.Price</span>
+                        <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                            <input type="hidden" name="foodId" value="@item.Id" />
+                            <button type="submit" class="btn btn-primary btn-sm">Add to Cart</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

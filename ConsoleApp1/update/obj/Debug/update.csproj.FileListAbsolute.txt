@@ -1,0 +1,2 @@
+C:\Users\sljha\source\repos\ConsoleApp1\update\obj\Debug\update.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\update\obj\Debug\update.csproj.CoreCompileInputs.cache

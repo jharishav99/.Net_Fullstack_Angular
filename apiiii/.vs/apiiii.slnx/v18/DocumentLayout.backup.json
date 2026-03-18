@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sljha\\source\\repos\\apiiii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AECFB5-3804-4CA0-87F2-F6A1D0EC190F}|apiiii\\apiiii.csproj|c:\\users\\sljha\\source\\repos\\apiiii\\apiiii\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AECFB5-3804-4CA0-87F2-F6A1D0EC190F}|apiiii\\apiiii.csproj|solutionrelative:apiiii\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AECFB5-3804-4CA0-87F2-F6A1D0EC190F}|apiiii\\apiiii.csproj|c:\\users\\sljha\\source\\repos\\apiiii\\apiiii\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AECFB5-3804-4CA0-87F2-F6A1D0EC190F}|apiiii\\apiiii.csproj|solutionrelative:apiiii\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AECFB5-3804-4CA0-87F2-F6A1D0EC190F}|apiiii\\apiiii.csproj|c:\\users\\sljha\\source\\repos\\apiiii\\apiiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AECFB5-3804-4CA0-87F2-F6A1D0EC190F}|apiiii\\apiiii.csproj|solutionrelative:apiiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\apiiii\\apiiii\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "apiiii\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\apiiii\\apiiii\\Model\\Student.cs",
+              "RelativeToolTip": "apiiii\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:41:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\apiiii\\apiiii\\Program.cs",
+              "RelativeDocumentMoniker": "apiiii\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\apiiii\\apiiii\\Program.cs",
+              "RelativeToolTip": "apiiii\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:36:03.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\apiiii\\apiiii\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "apiiii\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\apiiii\\apiiii\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "apiiii\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:34:03.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

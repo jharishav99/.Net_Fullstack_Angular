@@ -1,0 +1,17 @@
+﻿@page
+@using MiddlewareAssignment.Pages
+@model MiddlewareAssignment.Pages.ItemsModel
+
+<h1>Item Management</h1>
+
+<ul>
+    @foreach (var item in ItemsModel.ItemList) // Razor foreach loop [cite: 228]
+    {
+        <li>@item</li>
+    }
+</ul>
+
+<form method="post">
+    <input type="text" asp-for="NewItemName" />
+    <button type="submit">Add Item</button>
+</form>

@@ -1,0 +1,33 @@
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.deps.json
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.dll
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.pdb
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.AssemblyInfoInputs.cache
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.AssemblyInfo.cs
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.dll
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\refint\LibraryManagementLib.dll
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.pdb
+C:\Users\KIIT01\Desktop\Wipro NGA\Assignments\9b\LibraryManagementLib\obj\Debug\net8.0\ref\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.deps.json
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.pdb
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.AssemblyInfoInputs.cache
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.AssemblyInfo.cs
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\refint\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.pdb
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9b\LibraryManagementLib\obj\Debug\net8.0\ref\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.deps.json
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\bin\Debug\net8.0\LibraryManagementLib.pdb
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.AssemblyInfoInputs.cache
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.AssemblyInfo.cs
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\refint\LibraryManagementLib.dll
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\LibraryManagementLib.pdb
+C:\Users\sljha\Downloads\Rishav_9Bsolution\9Bsolution\LibraryManagementLib\obj\Debug\net8.0\ref\LibraryManagementLib.dll

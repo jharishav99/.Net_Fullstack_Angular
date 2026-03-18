@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\own_delegate\obj\Debug\own_delegate.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\own_delegate\obj\Debug\own_delegate.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\own_delegate\bin\Debug\own_delegate.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\own_delegate\bin\Debug\own_delegate.exe
+C:\Users\sljha\source\repos\ConsoleApp1\own_delegate\bin\Debug\own_delegate.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\own_delegate\obj\Debug\own_delegate.exe
+C:\Users\sljha\source\repos\ConsoleApp1\own_delegate\obj\Debug\own_delegate.pdb

@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\delegates_ex\obj\Debug\delegates_ex.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\delegates_ex\obj\Debug\delegates_ex.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\delegates_ex\bin\Debug\delegates_ex.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\delegates_ex\bin\Debug\delegates_ex.exe
+C:\Users\sljha\source\repos\ConsoleApp1\delegates_ex\bin\Debug\delegates_ex.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\delegates_ex\obj\Debug\delegates_ex.exe
+C:\Users\sljha\source\repos\ConsoleApp1\delegates_ex\obj\Debug\delegates_ex.pdb

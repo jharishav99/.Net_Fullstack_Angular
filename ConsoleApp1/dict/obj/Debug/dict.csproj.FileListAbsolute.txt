@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\dict\bin\Debug\dict.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\dict\bin\Debug\dict.exe
+C:\Users\sljha\source\repos\ConsoleApp1\dict\bin\Debug\dict.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\dict\obj\Debug\dict.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\dict\obj\Debug\dict.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\dict\obj\Debug\dict.exe
+C:\Users\sljha\source\repos\ConsoleApp1\dict\obj\Debug\dict.pdb

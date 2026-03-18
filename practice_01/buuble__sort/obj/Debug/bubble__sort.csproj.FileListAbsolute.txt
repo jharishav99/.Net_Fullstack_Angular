@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\practice_01\buuble__sort\bin\Debug\buuble__sort.exe.config
+C:\Users\sljha\source\repos\practice_01\buuble__sort\bin\Debug\buuble__sort.exe
+C:\Users\sljha\source\repos\practice_01\buuble__sort\bin\Debug\buuble__sort.pdb
+C:\Users\sljha\source\repos\practice_01\buuble__sort\obj\Debug\bubble__sort.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\practice_01\buuble__sort\obj\Debug\bubble__sort.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\practice_01\buuble__sort\obj\Debug\buuble__sort.exe
+C:\Users\sljha\source\repos\practice_01\buuble__sort\obj\Debug\buuble__sort.pdb

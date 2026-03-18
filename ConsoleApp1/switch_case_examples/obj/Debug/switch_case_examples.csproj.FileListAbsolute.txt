@@ -1,0 +1,7 @@
+C:\Users\sljha\source\repos\ConsoleApp1\switch_case_examples\bin\Debug\switch_case_examples.exe.config
+C:\Users\sljha\source\repos\ConsoleApp1\switch_case_examples\bin\Debug\switch_case_examples.exe
+C:\Users\sljha\source\repos\ConsoleApp1\switch_case_examples\bin\Debug\switch_case_examples.pdb
+C:\Users\sljha\source\repos\ConsoleApp1\switch_case_examples\obj\Debug\switch_case_examples.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\ConsoleApp1\switch_case_examples\obj\Debug\switch_case_examples.csproj.CoreCompileInputs.cache
+C:\Users\sljha\source\repos\ConsoleApp1\switch_case_examples\obj\Debug\switch_case_examples.exe
+C:\Users\sljha\source\repos\ConsoleApp1\switch_case_examples\obj\Debug\switch_case_examples.pdb

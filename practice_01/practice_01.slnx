@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="2122026/2122026.csproj" Id="d70fe168-3030-419b-a0ba-b89de7f152de" />
+  <Project Path="abc123/abc123.csproj" Id="2c99bb72-5ac0-4d1c-9938-334090a8e4cc" />
+  <Project Path="array_important/array_important.csproj" Id="e11ebd1d-4b81-4dac-a8de-f53ea348caff" />
+  <Project Path="buuble__sort/sort.csproj" Id="f55e5ed7-e025-48f3-873a-3b7c416df8f1" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="ee9afa37-c58a-4492-ba02-6cd2fd85046e" />
+  <Project Path="create_direct/create_direct.csproj" Id="d4c42205-80e7-4be7-b9a1-664cac95fad7" />
+  <Project Path="encap/encap.csproj" Id="979b5ece-bf0b-436f-8ddd-43a000329b03" />
+  <Project Path="event_sub/event_sub.csproj" Id="247cc00b-8319-434a-8dfa-30036018d46a" />
+  <Project Path="ex/ex.csproj" Id="102bd4eb-62c8-4eef-bf80-2e8df35486e9" />
+  <Project Path="fileappend/fileappend.csproj" Id="bbd10a7d-343f-4b9a-b2b3-cdf10c159294" />
+  <Project Path="files_exampl/files_exampl.csproj" Id="477f05e6-2f46-47f9-8b0b-1bcb781f5d84" />
+  <Project Path="my_exception_class/my_exception_class.csproj" Id="a804178a-d09d-413d-ad69-00902561a1cf" />
+  <Project Path="partial_class/partial_class.csproj" Id="a42701fd-e590-43d8-8c1e-db6202e90fd7" />
+  <Project Path="practice_01/practice_01.csproj" Id="86241152-165b-4a25-af00-6294fd65996b" />
+  <Project Path="practice_02/practice_02.csproj" Id="ff9adc6f-d277-44c3-b5c9-9e6c6b186993" />
+  <Project Path="practice_03/practice_03.csproj" Id="799cf440-6abc-4799-a2da-2bb620e25137" />
+  <Project Path="string_important/string_important.csproj" Id="c8826b93-8e9a-4938-b11d-e9147fc2e652" />
+</Solution>

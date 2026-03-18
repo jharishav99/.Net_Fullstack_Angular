@@ -1,0 +1,28 @@
+﻿@model IEnumerable<WebApplication1.Models.Patient>
+
+<div class="container mt-4">
+    <h2>Patient List</h2>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Phone</th> @* New Header *@
+                <th>Actions</th> @* New Header *@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Phone</td> @* New Data Cell *@
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

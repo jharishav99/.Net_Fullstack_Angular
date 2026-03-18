@@ -1,0 +1,5 @@
+C:\Users\sljha\source\repos\MyApp\MyApp.Tests\obj\Debug\net8.0\MyApp.Tests.csproj.AssemblyReference.cache
+C:\Users\sljha\source\repos\MyApp\MyApp.Tests\obj\Debug\net8.0\MyApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sljha\source\repos\MyApp\MyApp.Tests\obj\Debug\net8.0\MyApp.Tests.AssemblyInfoInputs.cache
+C:\Users\sljha\source\repos\MyApp\MyApp.Tests\obj\Debug\net8.0\MyApp.Tests.AssemblyInfo.cs
+C:\Users\sljha\source\repos\MyApp\MyApp.Tests\obj\Debug\net8.0\MyApp.Tests.csproj.CoreCompileInputs.cache
