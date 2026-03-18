@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\controllers\\streamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\controllers\\streamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\controllers\\professorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\controllers\\professorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\models\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\models\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\migrations\\20260214050612_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\migrations\\20260214050612_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|c:\\users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46708408-0E22-1B9D-D421-24A68F7B8B54}|mvc_core_project\\mvc_core_project.csproj|solutionrelative:mvc_core_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvc_core_project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvc_core_project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T08:33:19.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc_core_project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc_core_project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T06:18:59.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_core_project\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "mvc_core_project\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T05:53:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StreamsController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\StreamsController.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Controllers\\StreamsController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\StreamsController.cs",
+              "RelativeToolTip": "mvc_core_project\\Controllers\\StreamsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowFoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:12:22.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfessorsController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\ProfessorsController.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Controllers\\ProfessorsController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\ProfessorsController.cs",
+              "RelativeToolTip": "mvc_core_project\\Controllers\\ProfessorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:11:23.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "mvc_core_project\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAmwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:10:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentsController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\ParentsController.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Controllers\\ParentsController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\ParentsController.cs",
+              "RelativeToolTip": "mvc_core_project\\Controllers\\ParentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:10:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "mvc_core_project\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:09:11.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Parent.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Models\\Parent.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Parent.cs",
+              "RelativeToolTip": "mvc_core_project\\Models\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:36:25.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Professor.cs",
+              "RelativeToolTip": "mvc_core_project\\Models\\Professor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:37:23.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stream.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Stream.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Models\\Stream.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Stream.cs",
+              "RelativeToolTip": "mvc_core_project\\Models\\Stream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:38:10.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Student.cs",
+              "RelativeToolTip": "mvc_core_project\\Models\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:34:54.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260214050612_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Migrations\\20260214050612_InitialCreate.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Migrations\\20260214050612_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Migrations\\20260214050612_InitialCreate.cs",
+              "RelativeToolTip": "mvc_core_project\\Migrations\\20260214050612_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:06:12.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\Admin.cs",
+              "RelativeToolTip": "mvc_core_project\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:37:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc_core_project\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "mvc_core_project\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T05:21:06.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvc_core_project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:52:49.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "mvc_core_project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:59:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollegeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Data\\CollegeDbContext.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Data\\CollegeDbContext.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Data\\CollegeDbContext.cs",
+              "RelativeToolTip": "mvc_core_project\\Data\\CollegeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:51:08.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Program.cs",
+              "RelativeDocumentMoniker": "mvc_core_project\\Program.cs",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\Program.cs",
+              "RelativeToolTip": "mvc_core_project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:46:34.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\appsettings.json",
+              "RelativeDocumentMoniker": "mvc_core_project\\appsettings.json",
+              "ToolTip": "C:\\Users\\sljha\\source\\repos\\mvc_core_project\\mvc_core_project\\appsettings.json",
+              "RelativeToolTip": "mvc_core_project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T04:40:24.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
